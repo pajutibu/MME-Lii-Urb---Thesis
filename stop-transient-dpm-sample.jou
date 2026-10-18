@@ -1,0 +1,8 @@
+/file/set-tui-version "26.1"
+(cx-gui-do cx-set-list-tree-selections "NavigationPane*Frame2*Table1*List_Tree2" (list "Results|Reports|Discrete Phase|Sample/Erosion"))
+(cx-gui-do cx-set-list-tree-selections "NavigationPane*Frame2*Table1*List_Tree2" (list "Results|Reports|Discrete Phase|Sample/Erosion"))
+(cx-gui-do cx-activate-item "NavigationPane*Frame2*Table1*List_Tree2")
+(cx-gui-do cx-set-list-tree-selections "NavigationPane*Frame2*Table1*List_Tree2" (list "Results|Reports|Discrete Phase|Sample/Erosion"))
+(cx-gui-do cx-activate-item "Sample Trajectories / Compute Erosion*PanelButtons*PushButton1(Apply)")
+(cx-gui-do cx-activate-item "Sample Trajectories / Compute Erosion*PanelButtons*PushButton2(Close)")
+(cx-gui-do cx-activate-item "MenuBar*WriteSubMenu*Stop Journal")

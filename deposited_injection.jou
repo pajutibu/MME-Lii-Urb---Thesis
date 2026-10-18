@@ -1,0 +1,3 @@
+/file/set-tui-version "24.2"
+/define/models/dpm/injections/create-injection deposited-injection no yes file no deposited_injection.inj no no no no no 0. 1 
+(cx-gui-do cx-activate-item "MenuBar*WriteSubMenu*Stop Journal")

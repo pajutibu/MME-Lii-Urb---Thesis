@@ -1,0 +1,3 @@
+/file/set-tui-version "26.1"
+/report/dpm-sample "test-part-01-um" "test-part-5-um" () "interior--facetten" "new-model-only-decimated-1-facetten" () () "none" "no"
+(cx-gui-do cx-activate-item "MenuBar*WriteSubMenu*Stop Journal")
